@@ -1,0 +1,13 @@
+diff a/test9029.txt b/test9029.txt	(rejected hunks)
+@@ -1 +0,8 @@
+-//printf("sakuragikyousou");
+\ No newline at end of file
++//printf("sakuragikyousou");
++#include <stdlib.h>
++
++int main(void)
++{
++	Printf("�R�R�A\n");
++	return 0;
++}
+\ No newline at end of file
